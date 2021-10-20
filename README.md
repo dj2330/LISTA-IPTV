@@ -2,4 +2,4 @@
 
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/9de022f9-ed88-47db-8cc9-052e74347252/poster-780.jpg"
 group-title="Lançamentos", VELOZES E FURIOSOS 9
-https://dutrag.com/v/8epeph8l5gywdjy
+https://download2389.mediafire.com/7gwm1f363h4g/rp1wuxdljrqugit/Velozes.e.Furiosos.9-HD.mp4
